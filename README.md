@@ -17,4 +17,4 @@
 
 ## Deploy
 
-<a href="">Clique aqui para testar a calculadora.</a>
+<a href="https://nicoleespinosa.github.io/Teorema-de-Pitagoras/">Clique aqui para testar a calculadora.</a>
